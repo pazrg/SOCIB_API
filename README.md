@@ -24,7 +24,8 @@ Contains materal for getting to know better SOCIB API capabilities.
 * Diving into SOCIB data-sources:
 	- Finding your data-sources: [filtering deployments](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/finding_your_data_source.ipynb)
 	- Fetching data from your data-sources: [working with netCDFs (thredds services)](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/working_with_data_sources_netcdfs.ipynb)
-	- Fetching data from your data-sources: [straightforward access to data soruces data (overlooking netCDF files)](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/straightforward_data_access_for_data_sources.ipynb)
+	- Fetching data from your data-sources: [straightforward access to data sources data (overlooking netCDF files)](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/straightforward_data_access_for_data_sources.ipynb)
+		i.e [Drifters](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/drifters.ipynb, Gliders, HFRadar, Ocenaographic buoys etc
  
 * Diving into data-products:
 	- Fixed-stations
