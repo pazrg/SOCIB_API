@@ -29,7 +29,7 @@ Contains materal for getting to know better SOCIB API capabilities.
  
 * Diving into data-products:
 	- Fixed-stations
-	- Glider missions
+	- [Glider missions](https://github.com/pazrg/SOCIB_API/blob/master/data_products/data-products_glider_missions.ipynb)
 	- [Oceanographic campaings](https://github.com/pazrg/SOCIB_API/blob/master/data_products/data-products_Oceanographic_campaings.ipynb)
 
 ## Legacy
