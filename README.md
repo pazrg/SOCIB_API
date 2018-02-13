@@ -19,7 +19,7 @@ The new SOCIB API is addressed to two different types of users: the IT (software
 
 A success story is the development of the SOCIB Data Catalog web that fully relies on the capacity of this API, that will be published on the new SOCIB website.
 
-# API Examples (PythonNotebooks)
+# API examples (python notebooks)
 
 * [Quick start](https://github.com/pazrg/SOCIB_API/blob/master/tips/quick_start.ipynb) - SOCIB API main concepts
 
