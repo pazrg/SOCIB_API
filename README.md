@@ -1,3 +1,6 @@
+
+<img src="/images/bg-masthead3.jpg" alt="SOCIB">
+
 # What is SOCIB API?
 
 API stands for Application Programming Interface. An API is basically a programmatic tool that is used to interact with a system. More specifically, the new SOCIB API offers the possibility of discovering our data catalog and retrieving the data it contains. This API is a REST API, which means that the requests are issued with an usual HTTP client (available with any programming language). 
@@ -19,18 +22,15 @@ A success story is the development of the SOCIB Data Catalog web that fully reli
 ## PythonNotebooks
 Contains materal for getting to know better SOCIB API capabilities.
 
-* [Quick start](https://github.com/pazrg/SOCIB_API/blob/master/tips/quick_start.ipynb) 
+* [Quick start](https://github.com/pazrg/SOCIB_API/blob/master/tips/quick_start.ipynb) - SOCIB API main concepts
 
-* Diving into SOCIB data-sources:
-	- Finding your data-sources: [filtering deployments](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/finding_your_data_source.ipynb)
-	- Fetching data from your data-sources: [working with netCDFs (thredds services)](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/working_with_data_sources_netcdfs.ipynb)
-	- Fetching data from your data-sources: [straightforward access to data-sources data (overlooking netCDF files)](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/straightforward_data_access_for_data_sources.ipynb)
-		i.e [Drifters](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/drifters.ipynb), Gliders, HFRadar, Sea Level, [Oceanographic buoys](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/Oceanographic_Buoys.ipynb) etc
- 
-* Diving into data-products:
-	- [Fixed-stations](https://github.com/pazrg/SOCIB_API/blob/master/data-products_Fixed_stations.ipynb)
-	- [Glider missions](https://github.com/pazrg/SOCIB_API/blob/master/data_products/data-products_glider_missions.ipynb)
-	- [Oceanographic campaings](https://github.com/pazrg/SOCIB_API/blob/master/data_products/data-products_Oceanographic_campaings.ipynb)
+* Find your deployment. [Example 1: /data-source/ ENPOINT & PARAMS](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/finding_your_data_source.ipynb)
+
+* Explore your deployments's netCDFs (THREDDS services).[Example 2: Exploring deployments's netCDFs and THREDDS services available for those](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/working_with_data_sources_netcdfs.ipynb). 
+
+* Access deployment's data. [Example 3: /data-source/{id}/data ENPOINT & PARAMS](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/straightforward_data_access_for_data_sources.ipyn)
+
+* Find linked-deployments: [Example 4: /data-product/ ENPOINT & PARAMS](https://github.com/pazrg/SOCIB_API/blob/master/data-products_Fixed_stations.ipynb)
 
 ## Legacy
 This material has been developed by [Paz Rotllan](https://github.com/pazrg). Email: protllan@socib.es
