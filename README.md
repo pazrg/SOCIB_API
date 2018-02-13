@@ -19,23 +19,22 @@ The new SOCIB API is addressed to two different types of users: the IT (software
 
 A success story is the development of the SOCIB Data Catalog web that fully relies on the capacity of this API, that will be published on the new SOCIB website.
 
-## PythonNotebooks
-Contains materal for getting to know better SOCIB API capabilities.
+# API Examples (PythonNotebooks)
 
 * [Quick start](https://github.com/pazrg/SOCIB_API/blob/master/tips/quick_start.ipynb) - SOCIB API main concepts
 
 * Find your deployment. [Example 1: /data-source/ ENPOINT & PARAMS](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/finding_your_data_source.ipynb)
 
-* Explore your deployments's netCDFs (THREDDS services).[Example 2: Exploring deployments's netCDFs and THREDDS services available for those](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/working_with_data_sources_netcdfs.ipynb). 
+* Explore your deployments's netCDFs (THREDDS services). [Example 2: Exploring deployments's netCDFs and THREDDS services available for those](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/working_with_data_sources_netcdfs.ipynb). 
 
 * Access deployment's data. [Example 3: /data-source/{id}/data ENPOINT & PARAMS](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/straightforward_data_access_for_data_sources.ipyn)
 
 * Find linked-deployments: [Example 4: /data-product/ ENPOINT & PARAMS](https://github.com/pazrg/SOCIB_API/blob/master/data-products_Fixed_stations.ipynb)
 
-## Legacy
+# Legacy
 This material has been developed by [Paz Rotllan](https://github.com/pazrg). Email: protllan@socib.es
 
-## Copyright
+# Copyright
 Copyright (c) 2017 ICTS SOCIB - Servei d'observació i predicció costaner de les Illes Balears.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

@@ -42,3 +42,7 @@ See:
 * Find your deployment. [Example 1: /data-source/ ENPOINT & PARAMS](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/finding_your_data_source.ipynb)
 * Explore your deployments's netCDFs (THREDDS services).[Example 2: Exploring deployments's netCDFs and THREDDS services available for those](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/working_with_data_sources_netcdfs.ipynb). 
 * Access deployment's data. [Example 3: /data-source/{id}/data ENPOINT & PARAMS](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/straightforward_data_access_for_data_sources.ipyn)
+
+# Who is addressed to?
+
+Anyone interested in exploring SOCIB data archiving can use the API, that is, researchers for finding the data that better suit their study-cases or developers interested in integrating SOCIB data on its products.  
