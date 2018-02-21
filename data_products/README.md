@@ -39,7 +39,14 @@ This way, someone can ask for those data-products composed by deployments involv
 
 
 See:
-* Find linked-deployments: [Example 4: /data-product/ ENPOINT & PARAMS](https://github.com/pazrg/SOCIB_API/blob/master/data-products_Fixed_stations.ipynb)
+
+    - What is a data-product? ([Example 6](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/what_is_a_data_product.ipynb))- UNDERDEVELOPMENT
+
+    - Multiplatfrom campaings ([Example 7](https://github.com/pazrg/SOCIB_API/blob/master/data_products/oceanographic_campaings.ipynb))
+
+    - Glider missions ([example 8](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/glider_missions.ipynb)) - UNDERDEVELOPMENT
+
+    - Fixed-stations ([example 9](https://github.com/pazrg/SOCIB_API/blob/master/data_products/fixed_stations.ipynb))
 
 # Who is addressed to?
 

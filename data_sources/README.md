@@ -39,9 +39,15 @@ SOCIB data-sources ENPOINT gives users a quick way to go trough all deployments 
 This way, someone can ask for deployments involving certain platforms or instruments that ocurred in a defined time window (initial_datetime, end_datetime) and area (coverage_bounding_box). In addition to the above options, SOCIB data-sources ENPOINT enables also to look for specific standard variables (additional PARAM) by doing on its own a quick check of a given data-source (deployment) 'entries'. Once the deployments are found, users can either rely on THREDDS to view, download or access their associated netCDFS ('entries') or rely on SOCIB API again to directly retrive its data with several resampling methods. 
 
 See:
-* Find your deployment. [Example 1: /data-source/ ENPOINT & PARAMS](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/finding_your_data_source.ipynb)
-* Explore your deployments's netCDFs (THREDDS services).[Example 2: Exploring deployments's netCDFs and THREDDS services available for those](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/working_with_data_sources_netcdfs.ipynb). 
-* Access deployment's data. [Example 3: /data-source/{id}/data ENPOINT & PARAMS](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/straightforward_data_access_for_data_sources.ipyn)
+    - What is a data-source? ([Example 1](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/what_is_a_data_source.ipynb))
+    
+    - Selecting a data-source ([Example 2](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/selecting_a_data_source.ipynb))
+
+    - Querying a data-source's data ([example 3](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/querying_a_data_sources_data.ipynb))
+
+    - Selecting a data-source's data ([example 4](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/selecting_a_data_sources_data.ipynb))
+
+    - Processing a data-source's data ([example 5](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/processing_a_data_sources_data.ipynb))
 
 # Who is addressed to?
 

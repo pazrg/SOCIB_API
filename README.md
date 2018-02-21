@@ -23,13 +23,27 @@ A success story is the development of the SOCIB Data Catalog web that fully reli
 
 * [Quick start](https://github.com/pazrg/SOCIB_API/blob/master/tips/quick_start.ipynb) - SOCIB API main concepts
 
-* Find your deployment. [Example 1: /data-source/ ENPOINT & PARAMS](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/finding_your_data_source.ipynb)
+* SOCIB data-sources:
 
-* Explore your deployments's netCDFs (THREDDS services). [Example 2: Exploring deployments's netCDFs and THREDDS services available for those](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/working_with_data_sources_netcdfs.ipynb). 
+	- What is a data-source? ([Example 1](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/what_is_a_data_source.ipynb))
 
-* Access deployment's data. [Example 3: /data-source/{id}/data ENPOINT & PARAMS](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/straightforward_data_access_for_data_sources.ipyn)
+	- Selecting a data-source ([Example 2](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/selecting_a_data_source.ipynb))
 
-* Find linked-deployments: [Example 4: /data-product/ ENPOINT & PARAMS](https://github.com/pazrg/SOCIB_API/blob/master/data-products_Fixed_stations.ipynb)
+	- Querying a data-source's data ([example 3](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/querying_a_data_sources_data.ipynb))
+
+	- Selecting a data-source's data ([example 4](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/selecting_a_data_sources_data.ipynb))
+
+	- Processing a data-source's data ([example 5](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/processing_a_data_sources_data.ipynb))
+ 
+* SOCIB data-products:
+
+	- What is a data-product? ([Example 6](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/what_is_a_data_source.ipynb))- UNDERDEVELOPMENT
+
+	- Multiplatfrom campaings ([Example 7](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/what_is_a_data_source.ipynb))
+
+	- Glider missions ([example 8](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/what_is_a_data_source.ipynb))- UNDERDEVELOPMENT
+
+	- Fixed-stations ([example 9](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/what_is_a_data_source.ipynb))
 
 # Legacy
 This material has been developed by [Paz Rotllan](https://github.com/pazrg). Email: protllan@socib.es
