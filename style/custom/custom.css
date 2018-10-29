@@ -5,14 +5,14 @@ h1{
 h1>img{
 	width: 200px !important
 }
-h3>span{
+h3>{
 	background-color: #00334C;
 	border: 1px solid #e3e3e3;
 	border-radius: 4px;
 	color: #3dabb6; 
 	padding: 19px
 }
-h3>span>span{
+h3>span{
 	border: 1px solid #3dabb6;
 	border-radius: 4px;
 	background-color: #3dabb6; 
