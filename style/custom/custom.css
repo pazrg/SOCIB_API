@@ -1,8 +1,8 @@
 <style>
-.header{
+h1{
 	float:right !important
 }
-.logo{
+h1>img{
 	width: 200px !important
 }
 </style>
