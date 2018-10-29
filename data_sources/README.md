@@ -10,15 +10,15 @@ During the time period a given deployment (unique instrument&platform enssemble)
 
 See here how to use it:
 
-    - What is a data-source? ([Example 1](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/what_is_a_data_source.ipynb))
+- What is a data-source? ([Example 1](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/what_is_a_data_source.ipynb))
 
-    - Searching for certain data-sources ([Example 2](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/searching_for_certain_data_sources.ipynb)) such as coverage_bounding_box, type, status, instrument, platform, initial_time, end_time, processing levels etc.
+- Searching for certain data-sources ([Example 2](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/searching_for_certain_data_sources.ipynb)) such as coverage_bounding_box, type, status, instrument, platform, initial_time, end_time, processing levels etc.
 
-    - Requesting a data-source's data ([example 3](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/requesting_a_data_sources_data.ipynb))
+- Requesting a data-source's data ([example 3](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/requesting_a_data_sources_data.ipynb))
 
-    - Subsetting a data-source's data ([example 4](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/selecting_a_data_sources_data.ipynb))
+- Subsetting a data-source's data ([example 4](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/selecting_a_data_sources_data.ipynb))
 
-    - Resampling a data-source's data ([example 5](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/processing_a_data_sources_data.ipynb))
+- Resampling a data-source's data ([example 5](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/processing_a_data_sources_data.ipynb))
 
 # Who is addressed to?
 
