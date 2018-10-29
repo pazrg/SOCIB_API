@@ -27,13 +27,13 @@ A success story is the development of the SOCIB Data Catalog web that fully reli
 
 	- What is a data-source? ([Example 1](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/what_is_a_data_source.ipynb))
 
-	- Selecting a data-source ([Example 2](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/selecting_a_data_source.ipynb))
+	- Searching for certain data-sources ([Example 2](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/searching_for_certain_data_sources.ipynb))
 
-	- Querying a data-source's data ([example 3](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/querying_a_data_sources_data.ipynb))
+	- Requesting a data-source's data ([example 3](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/requesting_a_data_sources_data.ipynb))
 
-	- Selecting a data-source's data ([example 4](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/selecting_a_data_sources_data.ipynb))
+	- Subsetting a data-source's data: by time-range, by elevation-range and by bounding-box ([example 4](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/subsetting_a_data_sources_data.ipynb))
 
-	- Processing a data-source's data ([example 5](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/processing_a_data_sources_data.ipynb))
+	- Resampling a data-source's data: ([example 5](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/resampling_a_data_sources_data.ipynb))
  
 * SOCIB data-products:
 
