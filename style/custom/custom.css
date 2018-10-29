@@ -5,4 +5,24 @@ h1{
 h1>img{
 	width: 200px !important
 }
+h3>span{
+	background-color: #00334C;
+	border: 1px solid #e3e3e3;
+	border-radius: 4px;
+	color: #3dabb6; 
+	padding: 19px
+}
+h3>span>span{
+	border: 1px solid #3dabb6;
+	border-radius: 4px;
+	background-color: #3dabb6; 
+	color: white; 
+	padding: 5px
+}
+ul>li>b{
+	border: 1px solid #3dabb6;
+	border-radius: 4px;
+	background-color: #3dabb6; 
+	color: white; padding: 5px;
+}
 </style>
