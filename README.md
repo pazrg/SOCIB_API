@@ -35,15 +35,21 @@ A success story is the development of the SOCIB Data Catalog web that fully reli
 
 	- Resampling a data-source's data: ([example 5](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/resampling_a_data_sources_data.ipynb))
  
-* SOCIB data-products:
+* [SOCIB data-platforms](https://github.com/pazrg/SOCIB_API/tree/master/data_platforms):
+	- What is a data-platform? ([Example 6](https://github.com/pazrg/SOCIB_API/blob/master/data_platforms/what_is_a_data_platform.ipynb))
 
-	- What is a data-product? ([Example 6](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/what_is_a_data_product.ipynb)) - UNDERDEVELOPMENT
+	- Searching for certain data-platform ([Example 7](https://github.com/pazrg/SOCIB_API/blob/master/data_platforms/searching_for_certain_data_platform.ipynb)) by coverage_bounding_box, type, status, instrument, platform, initial_time, end_time, processing levels etc.
 
-	- Multiplatfrom campaings ([Example 7](https://github.com/pazrg/SOCIB_API/blob/master/data_products/oceanographic_campaings.ipynb))
+	- Requesting a data-plaform's historical files ([example 8](https://github.com/pazrg/SOCIB_API/blob/master/data_platforms/requesting_a_data_platforms_historical_files.ipynb))
 
-	- Glider missions ([example 8](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/glider_missions.ipynb)) - UNDERDEVELOPMENT
+	- Requesting a data-plaform's latest files ([example 9](https://github.com/pazrg/SOCIB_API/blob/master/data_platforms/requesting_a_data_platforms_latest_files.ipynb))
 
-	- Fixed-stations ([example 9](https://github.com/pazrg/SOCIB_API/blob/master/data_products/fixed_stations.ipynb))
+* [SOCIB data-products](https://github.com/pazrg/SOCIB_API/tree/master/data_products):
+	- What is a data-product? ([Example 9](https://github.com/pazrg/SOCIB_API/blob/master/data_products/what_is_a_data_products.ipynb))
+
+	- Searching for certain data-products ([Example 10](https://github.com/pazrg/SOCIB_API/blob/master/data_products/searching_for_certain_data_products.ipynb))
+
+	- Requesting a data-product's data ([example 11](https://github.com/pazrg/SOCIB_API/blob/master/data_products/requesting_a_data_products_data.ipynb))
 
 
 # Legacy
