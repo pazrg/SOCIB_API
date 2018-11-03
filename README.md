@@ -38,7 +38,7 @@ A success story is the development of the SOCIB Data Catalog web that fully reli
 * [SOCIB data-platforms](https://github.com/pazrg/SOCIB_API/tree/master/data_platforms):
 	- What is a data-platform? ([Example 6](https://github.com/pazrg/SOCIB_API/blob/master/data_platforms/what_is_a_data_platform.ipynb))
 
-	- Searching for certain data-platform ([Example 7](https://github.com/pazrg/SOCIB_API/blob/master/data_platforms/searching_for_certain_data_platform.ipynb)) by coverage_bounding_box, type, status, instrument, platform, initial_time, end_time, processing levels etc.
+	- Searching for certain data-platform ([Example 7](https://github.com/pazrg/SOCIB_API/blob/master/data_platforms/searching_for_certain_data_platforms.ipynb)) by coverage_bounding_box, type, status, instrument, platform, initial_time, end_time, processing levels etc.
 
 	- Requesting a data-plaform's historical files ([example 8](https://github.com/pazrg/SOCIB_API/blob/master/data_platforms/requesting_a_data_platforms_historical_files.ipynb))
 
