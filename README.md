@@ -23,7 +23,7 @@ A success story is the development of the SOCIB Data Catalog web that fully reli
 
 * [Quick start](https://github.com/pazrg/SOCIB_API/blob/master/tips/quick_start.ipynb) - SOCIB API main concepts
 
-* SOCIB data-sources:
+* SOCIB [data-sources](https://github.com/pazrg/SOCIB_API/tree/master/data_sources):
 
 	- What is a data-source? ([Example 1](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/what_is_a_data_source.ipynb))
 
