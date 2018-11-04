@@ -4,7 +4,7 @@ SOCIB data-products wrapp data-sources sharing the same context into one single 
 
 Examples of a multiplatform product (glider + tagged turtles) below: 
 
-<br><br>
+<br>
 <img src="../images/glidingturtles.jpg">
 
 SOCIB data-products constitute the second level of abstraction build over the data-sources, being the first one the so-called SOCIB data-products.
@@ -14,7 +14,7 @@ See more at:
 
 - What is a data-product? ([Example 10](what_is_a_data_product.ipynb))
 
-- Searching for certain data-products ([Example 11](searching_for_certain_data_product.ipynb)) by coverage_bounding_box, type, status, instrument, product, initial_time, end_time, processing levels etc.
+- Searching for certain data-products ([Example 11](searching_for_certain_data_products.ipynb)) by coverage_bounding_box, type, status, instrument, product, initial_time, end_time, processing levels etc.
 
 - Requesting a data-product's files ([Example 12](requesting_a_data_product_files.ipynb))
 
