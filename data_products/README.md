@@ -1,52 +1,23 @@
 # What are SOCIB data-products?
 
-SOCIB Data-products are 'artifacts' created by SOCIB and represents either individual deployments (isolate deployments) or groups of deployments (deployments that share a certain context and therefore, certain features). Examples where deployments can be grouped together in major entities are same transect/point long-term monitoring (fixed-stations, glider missions etc) or multiplatform campaings (involving different platforms: gliders, drifters, turtles, vessels...). In these situations, different deployments (instruments & platforms enssembles) are sequencially performed in order to ensure a continous data-retrieval and referring to them as a whole (overlooking individual deployments) might become handy. 
+SOCIB data-products wrapp data-sources sharing the same context into one single entity. This context can represent campaings (i.e CANALES), projects (i.e ABACUS, ["gliding turtles"](http://www.socib.eu/?seccion=siasDivision&facility=oceanographic-turtles)), operations (maintenance) etc. A certain SOCIB data-product can be composed then by a single data-source (i.e such data-source was deployed lonely) or serveral (i.e data-sources deployed during the same event). 
 
-SOCIB data-product ENPOINT gives users a quick way to go trough all data-products and ask for those whose deployments meet specific values by using the socalled ENDPOINT 'PARAMS':
+Examples of a multiplatform product (glider + tagged turtles) below: 
 
-    initial_datetime
-        UTC time as YYY-MM-DDTHH:MM:SS 
+<br><br>
+<img src="https://github.com/pazrg/SOCIB_API/raw/master/images/glidingturtles.jpg">
 
-    end_datetime
-        UTC time as YYY-MM-DDTHH:MM:SS 
-
-    standard_variable
-        Any value of those returned by /standard-variables/ ENDPOINT 
-
-    bbox
-        Area where a given deployment has been operating since deployed (released or placed). Area should be specify as a 4 comma-separated float numbers following the structure: min. lat., max. lat., min. lon., max. lon 
-
-    platform_type
-        Any value of those returned by /platform-types/ ENDPOINT 
-
-    instrument_type
-        Any value of those returned by /instrument-types/ ENDPOINT 
-
-    data_type
-        Any value of those returned by /data-types/ ENDPOINT 
-
-    status
-        Two posibilities: active or completed 
-
-    name
-        Filters the products which contains the given text in its name or description (Case insensitive) 
-
-    detail
-        "full" or "summary" 
+SOCIB data-products constitute the second level of abstraction build over the data-sources, being the first one the so-called SOCIB data-products.
 
 
-This way, someone can ask for those data-products composed by deployments involving certain platforms or instruments that ocurred in a defined time window (initial_datetime, end_datetime) and area (coverage_bounding_box). 
+See more at:
 
+- What is a data-product? ([Example 10](https://github.com/pazrg/SOCIB_API/blob/master/data_products/what_is_a_data_product.ipynb))
 
-See:
+- Searching for certain data-products ([Example 11](https://github.com/pazrg/SOCIB_API/blob/master/data_products/searching_for_certain_data_product.ipynb)) by coverage_bounding_box, type, status, instrument, product, initial_time, end_time, processing levels etc.
 
-    - What is a data-product? ([Example 6](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/what_is_a_data_product.ipynb))- UNDERDEVELOPMENT
+- Requesting a data-product's files ([Example 12](https://github.com/pazrg/SOCIB_API/blob/master/data_products/requesting_a_data_product_files.ipynb))
 
-    - Multiplatfrom campaings ([Example 7](https://github.com/pazrg/SOCIB_API/blob/master/data_products/oceanographic_campaings.ipynb))
-
-    - Glider missions ([example 8](https://github.com/pazrg/SOCIB_API/blob/master/data_sources/glider_missions.ipynb)) - UNDERDEVELOPMENT
-
-    - Fixed-stations ([example 9](https://github.com/pazrg/SOCIB_API/blob/master/data_products/fixed_stations.ipynb))
 
 # Who is addressed to?
 
