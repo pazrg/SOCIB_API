@@ -4,7 +4,7 @@ SOCIB data-sources corresponds to the so-called 'deployments'. In oceanography, 
 
 For example, see here the deployment of a platform (an Ocenographic buoy) with all its instruments: wave recorder, weather station, conductivity and temperature recorder, currentemeter, current profiler ...
 <br><br>
-<img src="..images/deployment_ocenographic_buoy.jpg">
+<img src="../images/deployment_ocenographic_buoy.jpg">
 
 During the time period a given deployment (unique instrument&platform enssemble) is active, the data measured by it is said to belong together and it is stored in the same netCDF to be later distributed in THREDDS. SOCIB API data-source endpoint allows a quick access to the data collected by a deployment.
 
