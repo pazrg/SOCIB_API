@@ -17,11 +17,11 @@ See here how to use it:
 
 - What is a data-platform? ([Example 6](what_is_a_data_platform.ipynb))
 
-- Searching for certain data-platform ([Example 7](searching_for_certain_data_platform.ipynb)) by coverage_bounding_box, type, status, instrument, platform, initial_time, end_time, processing levels etc.
+- Searching for certain data-platform ([Example 7](searching_for_certain_data_platforms.ipynb)) by platform type.
 
-- Requesting a data-plaform's historical files ([example 8](requesting_a_data_platforms_historical_files.ipynb))
+- Requesting a data-plaform's historical files ([Example 8](requesting_a_data_platforms_historical_files.ipynb))
 
-- Requesting a data-plaform's latest files ([example 9](requesting_a_data_platforms_latest_files.ipynb))
+- Requesting a data-plaform's latest files ([Example 9](requesting_a_data_platforms_latest_files.ipynb))
 
 
 # Who is addressed to?
