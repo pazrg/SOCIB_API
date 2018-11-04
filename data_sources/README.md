@@ -14,11 +14,11 @@ See here how to use it:
 
 - Searching for certain data-sources ([Example 2](searching_for_certain_data_sources.ipynb)) by coverage_bounding_box, type, status, instrument, platform, initial_time, end_time, processing levels etc.
 
-- Requesting a data-source's data ([example 3](requesting_a_data_sources_data.ipynb))
+- Requesting a data-source's data ([Example 3](requesting_a_data_sources_data.ipynb))
 
-- Subsetting a data-source's data ([example 4](subsetting_a_data_sources_data.ipynb))
+- Subsetting a data-source's data ([Example 4](subsetting_a_data_sources_data.ipynb))
 
-- Resampling a data-source's data ([example 5](resampling_a_data_sources_data.ipynb))
+- Resampling a data-source's data ([Example 5](resampling_a_data_sources_data.ipynb))
 
 # Who is addressed to?
 
