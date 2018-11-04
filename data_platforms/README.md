@@ -7,7 +7,7 @@ A certain SOCIB data-platform can be composed then by a single data-source (i.e 
 Examples of long-term platform-based monitoring are the contonous monitoring performed SOCIB fixed-stations (HFRadar, Ocenographic buoys, Sea Level stations, Weather Stations etc) or other platforms recurringly deployed (ie SOCIB gliders involved in 'CANALES' missions). 
 
 <br><br>
-<img src="https://github.com/socib/API_examples/raw/master/images/SOCIBfixed_station.jpg">
+<img src="../images/SOCIBfixed_station.jpg">
 
 
 SOCIB data-platforms constitute the first level of abstraction build over the data-sources, being the second one the so-called SOCIB data-products.
@@ -15,13 +15,13 @@ SOCIB data-platforms constitute the first level of abstraction build over the da
 
 See here how to use it:
 
-- What is a data-platform? ([Example 6](https://github.com/socib/API_examples/blob/master/data_platforms/what_is_a_data_platform.ipynb))
+- What is a data-platform? ([Example 6](what_is_a_data_platform.ipynb))
 
-- Searching for certain data-platform ([Example 7](https://github.com/socib/API_examples/blob/master/data_platforms/searching_for_certain_data_platform.ipynb)) by coverage_bounding_box, type, status, instrument, platform, initial_time, end_time, processing levels etc.
+- Searching for certain data-platform ([Example 7](searching_for_certain_data_platform.ipynb)) by coverage_bounding_box, type, status, instrument, platform, initial_time, end_time, processing levels etc.
 
-- Requesting a data-plaform's historical files ([example 8](https://github.com/socib/API_examples/blob/master/data_platforms/requesting_a_data_platforms_historical_files.ipynb))
+- Requesting a data-plaform's historical files ([example 8](requesting_a_data_platforms_historical_files.ipynb))
 
-- Requesting a data-plaform's latest files ([example 9](https://github.com/socib/API_examples/blob/master/data_platforms/requesting_a_data_platforms_latest_files.ipynb))
+- Requesting a data-plaform's latest files ([example 9](requesting_a_data_platforms_latest_files.ipynb))
 
 
 # Who is addressed to?

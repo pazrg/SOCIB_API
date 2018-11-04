@@ -5,18 +5,18 @@ SOCIB data-products wrapp data-sources sharing the same context into one single 
 Examples of a multiplatform product (glider + tagged turtles) below: 
 
 <br><br>
-<img src="https://github.com/pazrg/SOCIB_API/raw/master/images/glidingturtles.jpg">
+<img src="../images/glidingturtles.jpg">
 
 SOCIB data-products constitute the second level of abstraction build over the data-sources, being the first one the so-called SOCIB data-products.
 
 
 See more at:
 
-- What is a data-product? ([Example 10](https://github.com/pazrg/SOCIB_API/blob/master/data_products/what_is_a_data_product.ipynb))
+- What is a data-product? ([Example 10](what_is_a_data_product.ipynb))
 
-- Searching for certain data-products ([Example 11](https://github.com/pazrg/SOCIB_API/blob/master/data_products/searching_for_certain_data_product.ipynb)) by coverage_bounding_box, type, status, instrument, product, initial_time, end_time, processing levels etc.
+- Searching for certain data-products ([Example 11](searching_for_certain_data_product.ipynb)) by coverage_bounding_box, type, status, instrument, product, initial_time, end_time, processing levels etc.
 
-- Requesting a data-product's files ([Example 12](https://github.com/pazrg/SOCIB_API/blob/master/data_products/requesting_a_data_product_files.ipynb))
+- Requesting a data-product's files ([Example 12](requesting_a_data_product_files.ipynb))
 
 
 # Who is addressed to?
