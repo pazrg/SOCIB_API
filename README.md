@@ -21,35 +21,35 @@ A success story is the development of the [SOCIB Data Catalog](http://apps.socib
 
 # API examples (python notebooks)
 
-* [Quick start](https://github.com/socib/API_examples/blob/master/tips/quick_start.ipynb) - SOCIB API main concepts
+* [Quick start](tips/quick_start.ipynb) - SOCIB API main concepts
 
-* [SOCIB data-sources](https://github.com/socib/API_examples/tree/master/data_sources):
+* [SOCIB data-sources](data_sources):
 
-	- What is a data-source? ([Example 1](https://github.com/socib/API_examples/blob/master/data_sources/what_is_a_data_source.ipynb))
+	- What is a data-source? ([Example 1](data_sources/what_is_a_data_source.ipynb))
 
-	- Searching for certain data-sources ([Example 2](https://github.com/socib/API_examples/blob/master/data_sources/searching_for_certain_data_sources.ipynb))
+	- Searching for certain data-sources ([Example 2](data_sources/searching_for_certain_data_sources.ipynb))
 
-	- Requesting a data-source's data ([Example 3](https://github.com/socib/API_examples/blob/master/data_sources/requesting_a_data_sources_data.ipynb))
+	- Requesting a data-source's data ([Example 3](data_sources/requesting_a_data_sources_data.ipynb))
 
-	- Subsetting a data-source's data: by time-range, by elevation-range and by bounding-box ([Example 4](https://github.com/socib/API_examples/blob/master/data_sources/subsetting_a_data_sources_data.ipynb))
+	- Subsetting a data-source's data: by time-range, by elevation-range and by bounding-box ([Example 4](data_sources/subsetting_a_data_sources_data.ipynb))
 
 	- Resampling a data-source's data: ([Example 5](https://github.com/socib/API_examples/blob/master/data_sources/resampling_a_data_sources_data.ipynb))
  
-* [SOCIB data-platforms](https://github.com/socib/API_examples/tree/master/data_platforms):
-	- What is a data-platform? ([Example 6](https://github.com/socib/API_examples/blob/master/data_platforms/what_is_a_data_platform.ipynb))
+* [SOCIB data-platforms](data_platforms):
+	- What is a data-platform? ([Example 6](data_platforms/what_is_a_data_platform.ipynb))
 
-	- Searching for certain data-platform ([Example 7](https://github.com/socib/API_examples/blob/master/data_platforms/searching_for_certain_data_platforms.ipynb)) by coverage_bounding_box, type, status, instrument, platform, initial_time, end_time, processing levels etc.
+	- Searching for certain data-platform ([Example 7](data_platforms/searching_for_certain_data_platforms.ipynb)) by coverage_bounding_box, type, status, instrument, platform, initial_time, end_time, processing levels etc.
 
-	- Requesting a data-plaform's historical files ([Example 8](https://github.com/socib/API_examples/blob/master/data_platforms/requesting_a_data_platforms_historical_files.ipynb))
+	- Requesting a data-plaform's historical files ([Example 8](data_platforms/requesting_a_data_platforms_historical_files.ipynb))
 
-	- Requesting a data-plaform's latest files ([Example 9](https://github.com/socib/API_examples/blob/master/data_platforms/requesting_a_data_platforms_latest_files.ipynb))
+	- Requesting a data-plaform's latest files ([Example 9](data_platforms/requesting_a_data_platforms_latest_files.ipynb))
 
-* [SOCIB data-products](https://github.com/socib/API_examples/tree/master/data_products):
-	- What is a data-product? ([Example 10](https://github.com/socib/API_examples/blob/master/data_products/what_is_a_data_product.ipynb))
+* [SOCIB data-products](data_products):
+	- What is a data-product? ([Example 10](data_products/what_is_a_data_product.ipynb))
 
-	- Searching for certain data-products ([Example 11](https://github.com/socib/API_examples/blob/master/data_products/searching_for_certain_data_product.ipynb)) by coverage_bounding_box, type, status, instrument, product, initial_time, end_time, processing levels etc.
+	- Searching for certain data-products ([Example 11](data_products/searching_for_certain_data_product.ipynb)) by coverage_bounding_box, type, status, instrument, product, initial_time, end_time, processing levels etc.
 
-	- Requesting a data-product's files ([Example 12](https://github.com/socib/API_examples/blob/master/data_products/requesting_a_data_product_files.ipynb)
+	- Requesting a data-product's files ([Example 12](data_products/requesting_a_data_product_files.ipynb)
 
 
 # How to get an API key to interact with SOB API?
