@@ -38,7 +38,7 @@ A success story is the development of the [SOCIB Data Catalog](http://apps.socib
 * [SOCIB data-platforms](data_platforms):
 	- What is a data-platform? ([Example 6](data_platforms/what_is_a_data_platform.ipynb))
 
-	- Searching for certain data-platform ([Example 7](data_platforms/searching_for_certain_data_platforms.ipynb)) by coverage_bounding_box, type, status, instrument, platform, initial_time, end_time, processing levels etc.
+	- Searching for certain data-platform ([Example 7](data_platforms/searching_for_certain_data_platforms.ipynb)) by platform type.
 
 	- Requesting a data-plaform's historical files ([Example 8](data_platforms/requesting_a_data_platforms_historical_files.ipynb))
 
