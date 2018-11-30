@@ -19,7 +19,7 @@ The new SOCIB API is addressed to two different types of users: the IT (software
 
 A success story is the development of the [SOCIB Data Catalog](http://apps.socib.es/data-catalog/) web that fully relies on the capacity of this API, that will be published on the new SOCIB website.
 
-# How to get an API key to interact with SOCIB API?
+# How to interact with SOCIB API?
 Go to the [API home page](http://api.socib.es/home/) and request an API key (bottom of the page)
 
 
