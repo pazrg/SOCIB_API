@@ -56,10 +56,10 @@ Go to the [API home page](http://api.socib.es/home/) and request an API key (bot
 	- Requesting a data-product's files ([Example 12](data_products/requesting_a_data_product_files.ipynb))
 
 
-# Hands-on SOCIB API (extra python notebooks)
-	* Getting SOCIB platforms full-list - by platform type and status ([hands on 1](hands_on/hands_on_1.ipynb))
-	* Getting SOCIB platforms latest data - download ([hands on 2](hands_on/hands_on_2.ipynb))
-	* Getting SOCIB platforms historical data - download ([hands on 3](hands_on/hands_on_3.ipynb))
+# Quick hands-on
+* Getting SOCIB platforms full-list - by platform type and status ([hands on 1](hands_on/hands_on_1.ipynb))
+* Getting SOCIB platforms latest data - download ([hands on 2](hands_on/hands_on_2.ipynb))
+* Getting SOCIB platforms historical data - download ([hands on 3](hands_on/hands_on_3.ipynb))
 
 
 # Legacy
