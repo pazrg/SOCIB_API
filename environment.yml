@@ -4,11 +4,10 @@ channels:
 dependencies:
   - python
   - numpy
+  - shutil
   - pip
   - pip:
     - IPython
     - requests
     - json2html
-    - ftputil
-    - shutil
     - math
