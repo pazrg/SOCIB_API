@@ -9,4 +9,3 @@ dependencies:
     - IPython
     - requests
     - json2html
-    - math
