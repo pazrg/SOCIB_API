@@ -35,7 +35,7 @@ Go to the [API home page](http://api.socib.es/home/) and request an API key (for
 	- *Representations*: data-modes, data-levels and features
 
 * [Data entities](02-Hands-on-data.ipynb):
-	- *Discovery*: find data produced in a given area, time range, containing a certain variable and involving a given inturment or/and platform type.
+	- *Discovery*: find data produced in a given area, time range, containing a certain variable and involving a given instrument or/and platform type.
 	- *Download*: download data from the above discovery results.
 
 # Quick setup
