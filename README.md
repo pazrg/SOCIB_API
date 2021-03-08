@@ -36,7 +36,7 @@ Go to the [API home page](http://api.socib.es/home/) and request an API key (for
 
 * [Data entities](02-Hands-on-data.ipynb):
 	- *Discovery*: find data produced in a given area, time range, containing a certain variable and involving a given inturment or/and platform type.
-	- *Download-entries*: download data from the above discovery results.
+	- *Download*: download data from the above discovery results.
 
 # Quick setup
 * Export search results to CSV - for later download or sharing purposes ([quickSetup1.zip](quickSetups/quickSetup1.zip))
