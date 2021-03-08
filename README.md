@@ -1,5 +1,5 @@
 
-<img src="images/bg-masthead3.jpg" alt="SOCIB">
+<img src="assets/bg-masthead3.jpg" alt="SOCIB">
 
 # What is SOCIB API?
 
@@ -29,12 +29,12 @@ Go to the [API home page](http://api.socib.es/home/) and request an API key (for
 
 # API examples (python notebooks)
 
-* [] Data streams:
+* [Data streams](01-Getting-started.ipynb):
     - Origin: Platform-types and instruments-types managed by SOCIB Observing System.
 	- Content: standard variables managed by SOCIB Observing System
 	- Representations: data-modes, data-levels and features
 
-* [] Data entities
+* [Data entities](02-Hands-on-data.ipynb)
 	- Discovery - find data produced in a given area, time range, containing a certain variable and involving a given inturment or/and platform type.
 	- Download-entries - download data from the above discovery results.
 
