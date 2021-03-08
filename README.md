@@ -39,7 +39,7 @@ Go to the [API home page](http://api.socib.es/home/) and request an API key (for
 	- *Download-entries*: download data from the above discovery results.
 
 # Quick setup
-* Export search results to CSV - for later download or sharing purposes ([quickSetup1.zip](quickSetup/quickSetup1.zip))
+* Export search results to CSV - for later download or sharing purposes ([quickSetup1.zip](quickSetups/quickSetup1.zip))
 
 # Contact
 This material has been developed by [Paz Rotllan](https://github.com/pazrg). Email: protllan@socib.es
