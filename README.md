@@ -34,7 +34,7 @@ Go to the [API home page](http://api.socib.es/home/) and request an API key (for
 	- *Content*: standard variables managed by SOCIB Observing System
 	- *Representations*: data-modes, data-levels and features
 
-* Data entities ([Static](02-Hands-on-data.ipynb) | [Live](https://gesis.mybinder.org/binder/v2/gh/pazrg/SOCIB_API/ca0639283248e34ae7c46741872dbf5e401ddbaa?filepath=02-Hands-on-data.ipynb):
+* Data entities ([Static](02-Hands-on-data.ipynb) | [Live](https://gesis.mybinder.org/binder/v2/gh/pazrg/SOCIB_API/ca0639283248e34ae7c46741872dbf5e401ddbaa?filepath=02-Hands-on-data.ipynb)):
 	- *Discovery*: find data produced in a given area, time range, containing a certain variable and involving a given instrument or/and platform type.
 	- *Download*: download data from the above discovery results.
 
